@@ -13,13 +13,6 @@ p{
 	margin-bottom: -0.75em
 }
 
-function someguysdisplayedittime() {
-  var x = document.lastModified;
-  document.getElementById("demo").innerHTML = new Date(document.lastModified).toISOString().substr(11, 8);
-}
-
-	someguysdisplayedittime()
-	
 </style>
 	
 </head>
@@ -79,13 +72,11 @@ Man, how messed up would it be if objective morality were only <em>partially</em
 	<hr>
 	<font face = "Courier New", size="-1">
 	This page was last updated on 
-	<!-- #BeginDate format:fcIS1m -->Saturday, 2024-01-06  22:48<!-- #EndDate -->
-	</font>
-	<br>
-	<font size="-1">
-
-
-This is last updated time <span id='demo'></span>
+		<script>
+		const date = new Date(document.lastModified);
+		document.getElementById("demo").innerHTML = date;
+		</script>
+			
 		
 	<br>
 	© EJM 2024 CE
