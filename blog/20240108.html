@@ -74,7 +74,8 @@ Man, how messed up would it be if objective morality were only <em>partially</em
 	This page was hopefully last updated on <output id="demo"></output>.
 		<script>
 		const editdate = new Date(document.lastModified);
-		document.getElementById("demo").innerHTML = editdate;
+		const editdateoutput = editdate.format(YYY-MM-DD);
+		document.getElementById("demo").innerHTML = editdateoutput;
 		</script>
 	<br>
 	© EJM 2024 CE
