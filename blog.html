@@ -15,12 +15,11 @@ p{
 	
 	
 	
-div {
-  cursor: pointer
+a {
+  display : block; /* or inline-block */
 }
-
-iframe {
-  pointer-events: none
+a iframe {
+  pointer-events : none;
 }
 	
 	
@@ -48,7 +47,10 @@ iframe {
 <div onClick="">
 <iframe src="https://e-jo-m.github.io/blog/20240108.html" height="300" width="800" title="Iframe Example"></iframe>
 </div>
-	
+
+<a href="https://e-jo-m.github.io/blog/20240108.html">
+    <iframe src="https://e-jo-m.github.io/blog/20240108.html"></iframe>
+</a>
 	
 	
 </body>
