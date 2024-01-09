@@ -60,12 +60,15 @@ iframe {
 <footer>
 	<hr>
 	<font face = "Courier New", size="-1">
-	PUT DATE UPDATED HERE
-	</font>
+	This page was hopefully last updated on <output id="demo"></output>.
+		<script>
+		const editdate = new Date(document.lastModified);
+		const editdateoutput = editdate.toISOString();
+		document.getElementById("demo").innerHTML = editdateoutput;
+		</script>
 	<br>
-	<font size="-1">
-		
 	<br>
+	<font face = "Century Schoolbook", size="-1">
 	© EJM 2024 CE
 </footer>	
 </html>
