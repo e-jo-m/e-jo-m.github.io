@@ -19,7 +19,7 @@ I'm Jo! Dreamwidth's formatting was bugging me, so I decided to just make my own
 <br><br>
 <a href="https://e-jo-m.github.io/blog.html">Blog</a> (mostly opeds about Society)
 <br><br>
-<a href="PUTURLHERE">Fiction</a> (some)
+<a href="https://e-jo-m.github.io/fiction.html">Fiction</a> (some)
 <br><br>
 <a href="PUTURLHERE">Blog</a>
 	
@@ -27,13 +27,24 @@ I'm Jo! Dreamwidth's formatting was bugging me, so I decided to just make my own
 	
 	
 	<br> <br> <br>
+<br>
+<br>
+<br>
 <footer>
 	<hr>
 	<font face = "Courier New", size="-1">
-	This page was last updated on 
-	<!-- #BeginDate format:fcIS1m -->Saturday, 2024-01-06  23:48<!-- #EndDate -->
-	</font>
+	This page was last modified within one second of <output id="demo"></output>.
+		<script>
+		const editdate = new Date(document.lastModified);
+		const editdateoutput = editdate.toISOString();
+		document.getElementById("demo").innerHTML = editdateoutput;
+		</script>
+	<br>
+	<br>
+	<font face = "Century Schoolbook", size="-1">
+	© EJM 2024 CE
 </footer>	
+</html>	
 
 	
 </html>
