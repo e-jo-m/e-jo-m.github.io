@@ -1,0 +1,165 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>EJM Fiction: 'Breakdown'</title>
+	
+<style type="text/css">
+ h2{
+  margin-bottom: 0em ;
+}
+p{
+    text-indent: 2em;
+	margin-bottom: -0.75em
+}
+
+</style>
+	
+</head>
+	
+
+<font face = "Crimson Text">
+
+<h2>'Breakdown'</h2>
+<h3>EJM</h3>
+	
+	
+<p1>
+<font size="-1">
+<font face = "Helvetica">
+<font style="font-variant:small-caps">
+	<strong>Kind:</strong> 
+<font style="font-variant:normal">
+<font face = "Goudy Bookletter" size="-1.5">
+	Short story
+<br>
+	
+<font face = "Helvetica">
+<font style="font-variant:small-caps">
+	<strong>Wordcount:</strong> 
+<font face = "Goudy Bookletter" size="-1.5">
+	449
+<br>
+		
+<font face = "Helvetica">
+<font style="font-variant:small-caps">
+	<strong>Content warnings (highlight to view):</strong> 
+<font face = "Goudy Bookletter" size="-1.5"; font color="#FFFFFF">
+	Rated G; suitable for children; light blasphemy.
+</p1>
+</font>
+	
+	
+
+
+	
+<body>
+<font style="font-variant:normal">
+<font face = "Crimson Text" size="+0.5">
+	
+<p>
+“How,” the Archangel Michael asked the human, “did the Apocalypse begin?”
+</p>
+<p>
+	“With the horn of Gabriel,” the human answered immediately, and then, fearing that this was somehow a trick question, added, “right?”
+</p>
+<p>
+	“Correct,” said Michael. “Then what happened?”
+</p>
+<p>
+	“The wars on Earth.” 
+</p>
+<p>
+“Then?”
+</p>
+<p>
+“The return of Christ to the mortal world.”
+</p>
+<p>
+“Then?”
+</p>
+<p>
+“The resurrection of the righteous.”
+</p>
+<p>
+	“Then?”
+</p>
+<p>
+“The release of the Four Horsemen. The tearing apart of the sky.”
+</p>
+<p>
+“Then?” 
+</p>
+<p>
+“The seven further trumpets.”
+</p>
+<p>
+“Announcing?”
+</p>
+<p>
+“The Seventh Plague, but all over Earth instead of merely Egypt. The meteorite. The poisoning of the waters. The darkness of the skies.”
+</p>
+<p>
+“Those are the first four trumpets. What did the next two announce?”
+</p>
+<p>
+“The attack of the demons and the ride of the angelic army.”
+</p>
+<p>
+For a thousand thousand thousand demons indeed had risen from the depths of Hell and swarmed over the Earth, met only by a force of a fifth of a billion angels who crackled with power such that their very steeds felled mortals where they stood. The Last Battle sundered what was left of the inhabitable Earth, driving those humans who could not fight to death, and forcing those who could to throw themselves at the demons, sacrificing a thousand humans to kill one creature of Satan. And yet the forces of Adonai triumphed, and the Adversary was cast into the pit of flame with his innumerable allies and now they all writhed eternally where their worm dieth not.
+</p>
+<p>
+“Correct,” said Michael. He gazed impassively over the expanse of torn space and time that formed the remnants of the mortal realm. “That is how the Apocalypse began.”
+</p>
+<p>
+The human hesitated. “...Has it ended?”
+</p>
+<p>
+“It is about to,” Michael said.
+</p>
+<p>
+The human was silent.
+</p>
+<p>
+“The Apocalypse began with the sounding of the trumpet,” said Michael. “So must it end with the sounding of the trumpets and a sounding of the voice. The Earth is at its end, human. Its reweaving into the immortal realm is at hand. I have brought you here so that you are the last Earthly being to stand on it. For you are to give its final words.”
+</p>
+<p>
+“What words?” asked the human.
+</p>
+<p>
+Michael told him.
+</p>
+<p>
+With a bolt of blinding gold lightning, Michael commanded the 72x12x3 dominions to sound their adamantine trumpets in a trillion decibels of shattering noise which reverberated the length and breadth of the mortal realm and shook the fiery pit to its fathomless core, echoing throughout the Throne Room itself and filling the whole of Creation with twenty-two notes of song. 
+</p>
+<p>
+“Now,” Michael said.
+</p>
+<p>
+And as the last echoes of Earth’s final song dissipated into the nothingness from whence the world had come, the human said, “Th-th-th-that's all, folks!"
+</p>
+
+
+</body>
+	
+	
+<br>
+<br>
+<br>
+<footer>
+	<hr>
+	<font face = "Courier New", size="-1">
+	This page was last updated <output id="demo"></output>.
+		<script>
+		const editdate = new Date(document.lastModified);
+		const editdateoutput = editdate.toISOString();
+		document.getElementById("demo").innerHTML = editdateoutput;
+		</script>
+	<br>
+	<br>
+	<font face = "Century Schoolbook", size="-1">
+	© EJM 2024 CE
+</footer>	
+
+	
+</html>
