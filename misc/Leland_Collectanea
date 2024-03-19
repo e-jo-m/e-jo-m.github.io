@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Misc</title>
+	
+<style type="text/css">
+ h2{
+  margin-bottom: 0em ;
+}
+p{
+    text-indent: 2em;
+	margin-bottom: -0.75em
+}
+
+body {margin:2em;padding:0}
+	
+</style>
+	
+</head>
+	
+
+<font face = "Crimson Text">
+
+<h2>On Leland's Collecanea</h2>
+	
+	
+<body>
+<font style="font-variant:normal">
+<font face = "Crimson Text" size="+0.5">
+
+
+<p>
+Digital versions of all six volumes of John Leland's <em>Collectanea</em> can be viewed legally for free at the following links. I think. Possibly. The volume numbering is very confusing. At the end of volume six is an index.
+</p>
+<p>
+Volume I: <a href="https://babel.hathitrust.org/cgi/pt?id=nyp.33433075905665&seq=7">https://babel.hathitrust.org/cgi/pt?id=nyp.33433075905665&seq=7</a> 
+</p>
+<p>
+Volume I.II: <a href="https://babel.hathitrust.org/cgi/pt?id=gri.ark:/13960/t8gf50h4c&seq=9">https://babel.hathitrust.org/cgi/pt?id=gri.ark:/13960/t8gf50h4c&seq=9</a> 
+</p>
+<p>
+Volume II: Apparently one or the other?
+</p>
+<p>
+Volume III: <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015012370683&seq=7">https://babel.hathitrust.org/cgi/pt?id=mdp.39015012370683&seq=7</a> 
+</p>
+<p>
+Volume IV: <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015020074202&seq=19">https://babel.hathitrust.org/cgi/pt?id=mdp.39015020074202&seq=19</a> 
+</p>
+<p>
+Volume V: <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015012370691&seq=7">https://babel.hathitrust.org/cgi/pt?id=mdp.39015012370691&seq=7</a>
+</p>
+<p>
+Volume VI: <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015012370709&seq=7">https://babel.hathitrust.org/cgi/pt?id=mdp.39015012370709&seq=7</a> 
+</p>
+
+ 
+
+<br>
+<br>
+	<br>
+<p>
+
+<a href="https://e-jo-m.github.io/blog.html">(Return to blog homepage)</a>
+
+</p>
+	
+</body>
+	
+	
+<br>
+<br>
+<footer>
+	<hr>
+	<font face = "Courier New", size="-1">
+	This page was hopefully last updated on <output id="demo"></output>.
+		<script>
+		const editdate = new Date(document.lastModified);
+		const editdateoutput = editdate.toISOString();
+		document.getElementById("demo").innerHTML = editdateoutput;
+		</script>
+	<br>
+	<br>
+	<font face = "Century Schoolbook", size="-1">
+	© EJM 2024 CE
+</footer>	
+
+	
+</html>
